@@ -1,4 +1,4 @@
-![ccc51cd4c2720f0d32f913d89b1904a](https://github.com/user-attachments/assets/10266919-db6a-4d06-8d74-8dec49c0e5db)# Vulnerabilities in a Chinese White-Label Smart Camera
+# Vulnerabilities in a Chinese White-Label Smart Camera
 This repository documents security vulnerabilities discovered in a Chinese white-label (OEM/ODM) smart camera, sold under the brand “Zhuji,” and built on the Chenyun IoT platform. 
 
 ## Device information
