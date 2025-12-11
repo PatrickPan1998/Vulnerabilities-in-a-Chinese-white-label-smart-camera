@@ -7,6 +7,7 @@ This repository documents security vulnerabilities discovered in a Chinese white
 - **Firmware version:** HQLS_IOT66DP241129-10001
 - **Platform:** Chenyun OTA  
 - **Purchase link:** https://www.aliexpress.com/item/1005008580317191.html
+![4704d8cd04b805564b3a5c8535f5d29](https://github.com/user-attachments/assets/12e72ad8-4d34-4d45-8720-e1864a9e94cb)
 
 ## Summary of Vulnerabilities
 - **Default/weak password:**
