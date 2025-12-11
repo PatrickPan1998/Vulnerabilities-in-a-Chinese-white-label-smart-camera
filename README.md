@@ -2,14 +2,14 @@
 This repository documents security vulnerabilities discovered in a Chinese white-label (OEM/ODM) smart camera, sold under the brand “Zhuji,” and built on the Chenyun IoT platform. 
 
 ## Device information
-- **brand:** zhuji(white-label OEM)
-- **control APP:**: X-IoT
+- **Brand:** zhuji(white-label OEM)
+- **Control APP:**: X-IoT
 - **Firmware version:** HQLS_IOT66DP241129-10001
 - **Platform:** Chenyun OTA  
 - **Purchase link:** https://www.aliexpress.com/item/1005008580317191.html
 
 ## Summary of Vulnerabilities
-- **default/weak password:**
+- **Default/weak password:**
 Hard-coded password allows unauthorized LAN access and full device control. This password appears in the instruction and app.
 - **OTA Information Disclosure:**
 When the mobile application performs an OTA update check, the request is transmitted over HTTP in plaintext. The OTA server responds with internal backend URLs and the device ID, exposing sensitive information due to lack of authentication and encryption.
